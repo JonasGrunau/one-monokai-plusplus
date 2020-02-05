@@ -1,0 +1,22 @@
+{
+  "name": "one-monokai-plusplus",
+  "displayName": "One Monokai++",
+  "description": "One Monokai optimized for JSX / TSK",
+  "publisher": "JonasGrunau",
+  "version": "0.0.1",
+  "engines": {
+    "vscode": "^1.41.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "One Monokai++",
+        "uiTheme": "vs-dark",
+        "path": "./themes/One Monokai++-color-theme.json"
+      }
+    ]
+  }
+}
