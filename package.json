@@ -3,7 +3,10 @@
   "displayName": "One Monokai++",
   "description": "One Monokai optimized for JSX / TSK",
   "publisher": "JonasGrunau",
-  "version": "0.0.1",
+  "version": "1.0.0",
+  "repository": {
+    "url": "https://github.com/JonasGrunau/one-monokai-plusplus.git"
+  },
   "engines": {
     "vscode": "^1.41.0"
   },
